@@ -13,6 +13,8 @@ Agrawal P, Kumar R, Usmani SS, Dhall A, Patiyal S, Sharma N, et al. (2019).
 **GPSRdocker: A Docker-based Resource for Genomics, Proteomics and Systems biology.** *bioRxiv* 827766.  
 [https://doi.org/10.1101/827766](https://doi.org/10.1101/827766)
 
+zenodo:-(https://doi.org/10.5281/zenodo.20066828)
+
 ---
 
 ## About the Platform
